@@ -1,3 +1,3 @@
 # JS homeworks
 
-This repo contains solved homework task from JS course - beginner level
+This repo contains solved homework tasks from JS course - beginner level
